@@ -1,4 +1,4 @@
-# Doencas_cardiacas
+# Doenças cardíacas
 
 ![image](https://user-images.githubusercontent.com/69591172/187342741-ab93743d-cee3-4c88-9751-829d863ce2b8.png)
 
